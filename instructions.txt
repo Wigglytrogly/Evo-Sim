@@ -1,0 +1,13 @@
+--- INSTRUCTIONS ---
+
+
+This a simulated environment that optimizes the creatures to survive with the specific settings provided.
+
+-- Mutation rate --
+Dictates the amount each gene changes each generation, set at 1/10.
+
+-- Food growth rate --
+Dictates how much food grows in the world, set at 20.
+
+-- Credits --
+Created by Nate Bergh, uses Tkinter graphics and requires Google Chrome
